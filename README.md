@@ -41,13 +41,6 @@ PHStudio has been tested and is compatible with all major desktop browsers, incl
 
 ---
 
-## Getting Started
-
-1. Clone or download the repository.
-2. Open `index.html` in your preferred desktop browser.
-
-### Or just visit the deployment page
-[PHStudio](https://youcefshaaban.github.io/PHStudio/)
 
 ---
 
